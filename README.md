@@ -4,6 +4,10 @@ This application puts your memory to the test. You are presented with multiple i
 
 ## Project Screen Shots
 
+[Web View](src/demo/web-view.gif)
+
+[Mobile View](src/demo/mobile-view.gif)
+
 ## Available Scripts
 
 In the project directory, you can run:
