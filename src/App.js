@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
-import CharacterCard from './CharacterCard';
-import Wrapper from './Wrapper';
+import CharacterCard from './components/CharacterCard';
+import Wrapper from './components/Wrapper';
 import Navbar from './Navbar';
-import Jumbotron from './Jumbotron';
-import characters from './characters.json';
+import Jumbotron from './components/Jumbotron';
+import characters from './data/characters.json';
 import './App.css';
 
 class App extends Component {
@@ -39,31 +39,22 @@ class App extends Component {
   };
 
   shuffleArray = () => {
-    // Shuffle array of objects
     const shuffledArr = this.shuffle(this.state.characters);
-    // Setting 'shuffledArr' as the new state
     this.setState({ shuffledArr });
   };
-
-  // handleIncrement increments this.state.currentScore by 1
   handleIncrement = () => {
-    // Using setState method to update component's state
     this.setState({ currentScore: this.state.currentScore + 1 });
   };
 
-  // Function that takes an array as a parameter and shuffles it
   shuffle = array => {
     var currentIndex = array.length,
       temporaryValue,
       randomIndex;
 
-    // While there remain elements to shuffle...
     while (0 !== currentIndex) {
-      // Pick a remaining element...
       randomIndex = Math.floor(Math.random() * currentIndex);
       currentIndex -= 1;
 
-      // And swap it with the current element.
       temporaryValue = array[currentIndex];
       array[currentIndex] = array[randomIndex];
       array[randomIndex] = temporaryValue;

@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Jumbotron(props) {
+const Jumbotron = props => {
   return (
     <div className="jumbotron jumbotron-fluid">
       <div className="container">
@@ -12,6 +12,6 @@ function Jumbotron(props) {
       </div>
     </div>
   );
-}
+};
 
 export default Jumbotron;

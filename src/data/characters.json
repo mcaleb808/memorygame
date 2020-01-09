@@ -9,9 +9,9 @@
   {
     "id": 2,
     "clicked": false,
-    "name": "Charlize Theron",
-    "image": "http://beauty-around.com/images/sampledata/Hollywood_Actress/2sharliz.jpg",
-    "occupation": "Model, Actress"
+    "name": "Nelson Mandela",
+    "image": "https://karsh.org/wordpress/wp-content/uploads/2017/06/Yousuf-Karsh-Nelson-Mandela-1990-1523x1960.jpg",
+    "occupation": "Revolutionary"
   },
   {
     "id": 3,
@@ -23,16 +23,16 @@
   {
     "id": 4,
     "clicked": false,
-    "name": "Megan Denise Fox",
-    "image": "http://beauty-around.com/images/sampledata/Hollywood_Actress/4Megan_Fox.jpg",
-    "occupation": "Model, Actress"
+    "name": "Ed Sheeran",
+    "image": "https://i.dailymail.co.uk/1s/2019/05/26/08/13968800-7071715-image-a-1_1558856234614.jpg",
+    "occupation": "Singer, Artist"
   },
   {
     "id": 5,
     "clicked": false,
-    "name": "Keira Knightley",
-    "image": "http://beauty-around.com/images/sampledata/Hollywood_Actress/6Keira_Knightley.jpg",
-    "occupation": "Actress"
+    "name": "Nina Simone",
+    "image": "https://www.biography.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_1400/MTE1ODA0OTcxNzg1Njg0NDkz/nina-simone-9484532-2-raw.webp",
+    "occupation": "Singer, Artist"
   },
   {
     "id": 6,
@@ -44,15 +44,15 @@
   {
     "id": 7,
     "clicked": false,
-    "name": "Maria Bellucci",
-    "image": "http://beauty-around.com/images/sampledata/Hollywood_Actress/9Monica.jpg",
-    "occupation": "Model, Actress"
+    "name": "2Pac Shakur",
+    "image": "https://f4.bcbits.com/img/a2357155248_16.jpg",
+    "occupation": "Rapper"
   },
   {
     "id": 8,
     "clicked": false,
-    "name": "Justin Bieber",
-    "image": "https://www.justinbiebermusic.com/wp-content/themes/justinbieber2/images/bieber-news.png",
+    "name": "Burna Boy",
+    "image": "https://static.justnaija.com/uploads/2019/07/burna-boy-ssense-1.jpg",
     "occupation": "Singer"
   },
   {

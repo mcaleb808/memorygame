@@ -9,7 +9,7 @@
 
 header {
   padding: 10px 0;
-  background-color: red;
+  background-color: #004a2f;
   margin-bottom: 5px;
   box-shadow: 0 3px 6px #999, 0 3px 6px #999;
   color: white;
@@ -35,7 +35,8 @@ header p {
 .jumbotron {
   display: flex;
   align-items: center;
-  background: linear-gradient(to left top, blue, red) center center fixed;
+  background: linear-gradient(to left top, green, rgba(2, 70, 22, 0.616)) center
+    center fixed;
   background-size: cover;
   color: #ffffff;
   height: 50px;

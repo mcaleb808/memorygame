@@ -1,6 +1,6 @@
 import React from 'react';
 
-function CharacterCard(props) {
+const CharacterCard = props => {
   return (
     <div
       className={'card ' + (props.Clicked ? 'animate' : '')}
@@ -23,6 +23,6 @@ function CharacterCard(props) {
       </div>
     </div>
   );
-}
+};
 
 export default CharacterCard;
