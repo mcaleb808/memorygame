@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "clicked": false,
+    "name": "Angelina Jolie Voight",
+    "image": "http://beauty-around.com/images/sampledata/Hollywood_Actress/1Anjelina-Jolie.jpg",
+    "occupation": "Actress, Director"
+  },
+  {
+    "id": 2,
+    "clicked": false,
+    "name": "Nelson Mandela",
+    "image": "https://karsh.org/wordpress/wp-content/uploads/2017/06/Yousuf-Karsh-Nelson-Mandela-1990-1523x1960.jpg",
+    "occupation": "Revolutionary"
+  },
+  {
+    "id": 3,
+    "clicked": false,
+    "name": "Jessica Alba",
+    "image": "http://beauty-around.com/images/sampledata/Hollywood_Actress/3Alba.jpg",
+    "occupation": "Model, Actress"
+  },
+  {
+    "id": 4,
+    "clicked": false,
+    "name": "Ed Sheeran",
+    "image": "https://i.dailymail.co.uk/1s/2019/05/26/08/13968800-7071715-image-a-1_1558856234614.jpg",
+    "occupation": "Singer, Artist"
+  },
+  {
+    "id": 5,
+    "clicked": false,
+    "name": "Nina Simone",
+    "image": "https://www.biography.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_1400/MTE1ODA0OTcxNzg1Njg0NDkz/nina-simone-9484532-2-raw.webp",
+    "occupation": "Singer, Artist"
+  },
+  {
+    "id": 6,
+    "clicked": false,
+    "name": "Nina Dobrev",
+    "image": "http://beauty-around.com/images/sampledata/Hollywood_Actress/8nina_Dobrev.jpg",
+    "occupation": "Actress"
+  },
+  {
+    "id": 7,
+    "clicked": false,
+    "name": "2Pac Shakur",
+    "image": "https://f4.bcbits.com/img/a2357155248_16.jpg",
+    "occupation": "Rapper"
+  },
+  {
+    "id": 8,
+    "clicked": false,
+    "name": "Burna Boy",
+    "image": "https://static.justnaija.com/uploads/2019/07/burna-boy-ssense-1.jpg",
+    "occupation": "Singer"
+  },
+  {
+    "id": 9,
+    "clicked": false,
+    "name": "Daddy Yankee",
+    "image": "https://media1.fdncms.com/orlando/imager/u/original/2514354/gal_sel_daddy-yankee-2016.jpg",
+    "occupation": "Singer"
+  },
+  {
+    "id": 10,
+    "clicked": false,
+    "name": "Sean Paul",
+    "image": "https://www.thepeninsulaqatar.com/uploads/2018/09/20/post_main_cover_fit//1b21da4888de17e14120771c191d5373a06fe9c1.jpg",
+    "occupation": "Singer"
+  },
+  {
+    "id": 11,
+    "clicked": false,
+    "name": "Deadpool",
+    "image": "https://vignette.wikia.nocookie.net/marvelmovies/images/6/66/Deadpool_promo.png/revision/latest?cb=20150707202600",
+    "occupation": "Hero"
+  },
+  {
+    "id": 12,
+    "clicked": false,
+    "name": "Sofia Vergara",
+    "image": "https://i.dailymail.co.uk/i/newpix/2018/09/18/20/5017C57300000578-6182201-image-a-100_1537300563965.jpg",
+    "occupation": "Actress"
+  }
+]
